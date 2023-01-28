@@ -1,0 +1,107 @@
+[
+    {
+        "question": "Javascript is an _______ language?",
+        "answers": [
+            {
+                "answer": "Object-Oriented",
+                "isCorrect": true
+            },
+            {
+                "answer": "Object-Based",
+                "isCorrect": false
+            },
+            {
+                "answer": "Procedural",
+                "isCorrect": false
+            },
+            {
+                "answer": "None of these",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following keywords is used to define a variable in Javascript?",
+        "answers": [
+            {
+                "answer": "var",
+                "isCorrect": false
+            },
+            {
+                "answer": "let",
+                "isCorrect": false
+            },
+            {
+                "answer": "Both",
+                "isCorrect": true
+            },
+            {
+                "answer": "None of these",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following methods is used to access HTML elements using Javascript?",
+        "answers": [
+            {
+                "answer": "getElementById()",
+                "isCorrect": false
+            },
+            {
+                "answer": "getElementsByClassName()",
+                "isCorrect": false
+            },
+            {
+                "answer": "Both",
+                "isCorrect": true
+            },
+            {
+                "answer": "None of these",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following methods can be used to display data in some form using Javascript?",
+        "answers": [
+            {
+                "answer": "document.write()",
+                "isCorrect": false
+            },
+            {
+                "answer": "console.log()",
+                "isCorrect": false
+            },
+            {
+                "answer": "window.alert()",
+                "isCorrect": false
+            },
+            {
+                "answer": "All of these",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the use of the <noscript> tag in Javascript?",
+        "answers": [
+            {
+                "answer": "The contents are displayed by non-JS-based browsers",
+                "isCorrect": true
+            },
+            {
+                "answer": "Clears all the cookies and cache",
+                "isCorrect": false
+            },
+            {
+                "answer": "Both",
+                "isCorrect": false
+            },
+            {
+                "answer": "None of these",
+                "isCorrect": false
+            }
+        ]
+    }
+]
